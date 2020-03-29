@@ -5,6 +5,6 @@
  *  Time: 7:06 PM
  */
 package problem5.node;
-// to define node properties
+// to define problem4.node properties
 public class Node {
 }
